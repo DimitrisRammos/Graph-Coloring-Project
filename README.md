@@ -16,7 +16,7 @@ This program is Work from our first half year in https://www.di.uoa.gr/.
 This work is in c, and we havn't use data structures( when we wright this code we don't know data structures).
 
 ## Vocalization Project
-The vocalization Project find [here.](https://github.com/DimitrisRammos/Graph-Coloring-Project/blob/main/iphw1920_4.pdf)
+The vocalization of the Project find [here.](https://github.com/DimitrisRammos/Graph-Coloring-Project/blob/main/iphw1920_4.pdf)
 
 
 ## Compilation
