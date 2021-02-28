@@ -9,7 +9,7 @@ gcc -o mapcol mapcol.o sorting.o epilogi_c.o
 //                                                                          //
 //////////////////////////////////////////////////////////////////////////////
 
-##Our Teams:
+## Our Teams:
 [Alexandros Tsalapatis](https://github.com/Alex-techlab-dotcom)
 [Dimitris Rammos](https://github.com/DimitrisRammos)
 
