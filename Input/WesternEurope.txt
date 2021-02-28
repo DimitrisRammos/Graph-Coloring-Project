@@ -1,0 +1,23 @@
+nocolor Andorra France Spain
+nocolor Austria Germany Italy Liechtenstein Switzerland
+nocolor Belgium France Germany Luxembourg Netherlands
+nocolor Denmark Germany
+nocolor Finland Norway Sweden
+nocolor France Andorra Belgium Germany Italy Luxembourg Monaco Spain Switzerland
+nocolor Germany Austria Belgium Denmark France Luxembourg Netherlands Switzerland
+nocolor Iceland
+nocolor Ireland United_Kingdom
+nocolor Italy Austria France San_Marino Switzerland Vatican_City
+nocolor Liechtenstein Austria Switzerland
+nocolor Luxembourg Belgium France Germany
+nocolor Malta
+nocolor Monaco France
+nocolor Netherlands Belgium Germany
+nocolor Norway Finland Sweden
+nocolor Portugal Spain
+nocolor San_Marino Italy
+nocolor Spain Andorra France Portugal
+nocolor Sweden Finland Norway
+nocolor Switzerland Austria France Germany Italy Liechtenstein
+nocolor United_Kingdom Ireland
+nocolor Vatican_City Italy
