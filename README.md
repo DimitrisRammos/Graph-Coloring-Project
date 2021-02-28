@@ -9,9 +9,9 @@ gcc -o mapcol mapcol.o sorting.o epilogi_c.o
 //                                                                          //
 //////////////////////////////////////////////////////////////////////////////
 
-OUR TEAMS:
-ALEXANDROS TSALAPATIS
-DIMITRIOS RAMMOS
+##Our Teams:
+[Alexandros Tsalapatis](https://github.com/Alex-techlab-dotcom)
+[Dimitris Rammos](https://github.com/DimitrisRammos)
 
 
 This program is Work from our first half year in https://www.di.uoa.gr/.
