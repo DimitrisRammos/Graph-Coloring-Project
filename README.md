@@ -25,7 +25,7 @@ cd Program
 
 make mapcol
 
-make genmap //for genemap
+make genmap //for genmap
 
 make run //with example input, if you want change other input file( from Directory Input)
 
