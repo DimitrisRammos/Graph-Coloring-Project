@@ -2,6 +2,8 @@
 
 This problem is [Map coloring Problem.](https://en.wikipedia.org/wiki/Map_coloring)
 
+![Map](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/World_map_with_four_colours.svg/2543px-World_map_with_four_colours.svg.png)
+
 ## Our Teams
 [Alexandros Tsalapatis](https://github.com/Alex-techlab-dotcom)
 
