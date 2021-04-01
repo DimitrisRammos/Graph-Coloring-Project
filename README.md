@@ -1,4 +1,4 @@
-# Graph-Coloring-Project
+# :world_map: Graph-Coloring-Project
 
 This problem is [Map coloring Problem.](https://en.wikipedia.org/wiki/Map_coloring)
 
